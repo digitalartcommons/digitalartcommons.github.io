@@ -1,1 +1,3 @@
-# digitalartcommons.github.io
+# Digital Art Commons
+
+This project intends to serve as an open source standards and curriculum development platform for users interested in improving digital media education such as teachers, industry professionals, and students. It will exist to help build and share classroom resources, assignments, assets, and tools to assist educators and students in learning and various software and workflows. It will also help an open community of users define a common set of learning objectives for courses across various learning platforms and institutions. It will bridge professional organizations, and companies with schools and government. This platform will initially be started by educators and students at LSU in order to jumpstart the information gathering process. 
